@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookme/static/css/main.e6c13ad2.css",
+    "main.js": "/bookme/static/js/main.8ecdf0f1.js",
+    "static/js/453.933d21b3.chunk.js": "/bookme/static/js/453.933d21b3.chunk.js",
+    "index.html": "/bookme/index.html",
+    "main.e6c13ad2.css.map": "/bookme/static/css/main.e6c13ad2.css.map",
+    "main.8ecdf0f1.js.map": "/bookme/static/js/main.8ecdf0f1.js.map",
+    "453.933d21b3.chunk.js.map": "/bookme/static/js/453.933d21b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8ecdf0f1.js"
+  ]
+}
